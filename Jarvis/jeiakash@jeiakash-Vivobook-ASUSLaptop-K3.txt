@@ -1,0 +1,14 @@
+jeiakash@jeiakash-Vivobook-ASUSLaptop-K3605ZF-K3605ZF:~/Desktop/jarvis/Jarvis-Desktop-Voice-Assistant/Jarvis$ # Create virtual environment
+python -m venv jarvis-env
+
+# Activate virtual environment
+# On Windows:
+jarvis-env\Scripts\activate
+# On macOS/Linux:
+source jarvis-env/bin/activate
+jarvis-envScriptsactivate: command not found
+(jarvis-env) jeiakash@jeiakash-Vivobook-ASUSLaptop-K3605ZF-K3605ZF:~/Desktop/jarvis/Jarvis-Desktop-Voice-Assistant/Jarvis$ python jarvis.py
+Assistant: Welcome back, sir!
+Assistant: Good evening!
+Assistant: jarvis at your service. How may I assist you?
+Listening...
